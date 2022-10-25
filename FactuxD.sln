@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactuxD", "FactuxD.csproj", "{FFBA04B4-3850-4CEB-A141-55526493B8D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiLibreria", "..\MiLibreria\MiLibreria.csproj", "{3E553F6D-A72B-421C-902D-F0DC6D6BC67E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D9B33F8-2203-4D22-B9AD-37C539B20E8A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBA04B4-3850-4CEB-A141-55526493B8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBA04B4-3850-4CEB-A141-55526493B8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBA04B4-3850-4CEB-A141-55526493B8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBA04B4-3850-4CEB-A141-55526493B8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E553F6D-A72B-421C-902D-F0DC6D6BC67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E553F6D-A72B-421C-902D-F0DC6D6BC67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E553F6D-A72B-421C-902D-F0DC6D6BC67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E553F6D-A72B-421C-902D-F0DC6D6BC67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C49E1BB-ADEA-4805-8BB8-3987DECAE87B}
+	EndGlobalSection
+EndGlobal
